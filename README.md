@@ -1,16 +1,17 @@
-## Hi there 👋
+大家好！我是小何，一名上位机软件开发者，目前在中国江苏省苏州市工作。我热衷于探索WPF和基于XAML的技术并努力活跃在开发社区中。我的目标是让更多人认识并爱上这些强大的开发工具。如果你对WPF和上位机软件开发感兴趣，欢迎联系我。
 
-<!--
-**he-ze-xi/he-ze-xi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 专业知识
 
-Here are some ideas to get you started:
+- WPF UI库开发
+- 基于XAML的UI设计
+- 自定义控件创建
+- MVVM模式实现
+- WPF动画技术
+- WPF数据绑定
+- WPF样式和主题
+- 技术写作和文档
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 联系方式
+
+- 电子邮件：2663831724@QQ.com
+
