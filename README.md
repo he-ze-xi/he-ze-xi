@@ -1,4 +1,3 @@
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=he-ze-xi)]()
 
 👋👋👋大家好！我是小何，一名上位机软件开发者。我热衷于探索WPF和基于XAML的技术并努力活跃在开发社区中。我的目标是让更多人认识并爱上这些强大的开发工具。如果你对WPF和上位机软件开发感兴趣，欢迎联系我。
 
@@ -17,3 +16,9 @@
 ## 📫 联系方式
 
 - 电子邮件：2663831724@QQ.com
+
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=he-ze-xi)]()
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/he-ze-xi/count.svg) visitor,Thank You!😘😘😘
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he-ze-xi&layout=compact&theme=tokyonight)
