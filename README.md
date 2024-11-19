@@ -19,6 +19,6 @@
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=he-ze-xi)]()
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/he-ze-xi/count.svg) visitor,Thank You!😘😘😘
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he-ze-xi&layout=compact&theme=tokyonight)
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/he-ze-xi/count.svg) visitor,Thank You!😘😘😘
