@@ -3,8 +3,8 @@
 
 ## 🚀 主要活动和成就
 
-- **CSDN平台**：发布了多个WPF以及上位机开发笔记。[网站](https://blog.csdn.net/weixin_48239221?spm=1000.2115.3001.5343)
-- **博客园**：正在将CSDN平台文章迁移至博客园。[网站](https://www.cnblogs.com/hezexi)
+- 小何的Blog:[CSDN平台发布博客](https://blog.csdn.net/weixin_48239221?spm=1000.2115.3001.5343)
+- 开发WPF UI库:[UllnnovationHub](https://github.com/he-ze-xi/UllnnovationHub)
 
 ## 💻 专业知识
 
@@ -12,6 +12,7 @@
 * WPF UI库开发
 * 自定义控件创建
 * 技术写作和文档
+* 上位机软件开发
 
 ## 📫 联系方式
 
