@@ -4,7 +4,8 @@
 ## 🚀 主要活动和成就
 
 - 小何的Blog:[CSDN平台发布博客](https://blog.csdn.net/weixin_48239221?spm=1000.2115.3001.5343)
-- 开发WPF UI库:[UllnnovationHub](https://github.com/he-ze-xi/UllnnovationHub)
+- 开发WPF UI库1:[UllnnovationHub](https://github.com/he-ze-xi/HEFrame.WpfUI)
+- 开发WPF UI库2:[UllnnovationHub](https://github.com/he-ze-xi/UllnnovationHub)
 
 ## 💻 专业知识
 
