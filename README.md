@@ -3,8 +3,10 @@
 
 ## 🚀 主要项目与开源贡献
 
-- 📝 技术博客g:[CSDN平台发布博客](https://blog.csdn.net/weixin_48239221?spm=1000.2115.3001.5343)
+-📝 技术博客:[CSDN平台发布博客](https://blog.csdn.net/weixin_48239221?spm=1000.2115.3001.5343)
+
 -🧩 WPF UI库1:[HEFrame.WpfUI](https://github.com/he-ze-xi/HEFrame.WpfUI)
+
 -🧩 WPF UI库2:[UllnnovationHub](https://github.com/he-ze-xi/UllnnovationHub)
 
 ## 💻 专业知识
